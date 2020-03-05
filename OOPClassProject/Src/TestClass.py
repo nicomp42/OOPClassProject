@@ -8,6 +8,3 @@ from Team import Team
 class TestClass(Team):
     def __init__(self, teamName, activity):
         TestClass.__init__(self, teamName, activity)
-    
-    def toString(self):
-        return "Team name = " + self.teamName + ", activity = " + self.activity 
