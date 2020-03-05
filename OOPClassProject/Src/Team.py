@@ -9,5 +9,5 @@ class Team:
         self.activity = activity
         
     def toString(self):
-        return "Team name = " + self.teamName + ", activity = " + self.activity 
+        return "Team name = " + self.teamName + ", activity = " + self.activity
       
