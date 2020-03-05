@@ -6,5 +6,5 @@ Created on Mar 5, 2020
 
 class Stadium:
     def __init__(self,stadiumName):
-        self.stadiumName = stadiumName
+        self.stadiumName = stadiumName 
         
